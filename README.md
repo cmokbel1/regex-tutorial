@@ -12,6 +12,6 @@ Any and all contributions are welcome as this is from the eyes of a novice devel
 
 ## Contact
 
-email: Claudemokbel@gmail.com
-Github: cmokbel1
-repository:  https://github.com/cmokbel1/regex-tutorial
+- email: Claudemokbel@gmail.com
+- Github: cmokbel1
+- repository:  https://github.com/cmokbel1/regex-tutorial
